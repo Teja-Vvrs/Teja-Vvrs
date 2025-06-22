@@ -24,7 +24,7 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🏆 Top 50 Finalist – **STACKHACK 2.0** by Mercer  
+- 🏆 Top 30 Finalist – **STACKHACK 2.0** by Mercer  
 - 🤖 AI/ML Virtual Internship – **Google & AICTE**  
 - ☁️ AWS Cloud Virtual Internship – **AICTE**  
 - 💡 Built **10+ Full Stack Projects**  
@@ -103,11 +103,25 @@
 ---
 
 ## 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Teja-Vvrs&show_icons=true&theme=radical" alt="Teja's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-Vvrs&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Teja-Vvrs&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teja-Vvrs&theme=radical" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
+</table>
 
-![Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Teja-Vvrs&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-Vvrs&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Teja-Vvrs&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Teja-Vvrs&theme=radical)
 
 ---
 
@@ -130,4 +144,4 @@
 
 ---
 
-<p align="center"><i>💡 "Passionate about building impactful tech that makes lives easier, smarter, and better." 🚀</i></p>
+<p align="center"><i>⚡ "I don’t just write code — I architect ideas into digital reality." 🚀</i></p>
