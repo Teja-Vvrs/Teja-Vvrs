@@ -1,100 +1,133 @@
-<!--
-  👋 Hi there, I’m VVRS Teja (a.k.a. RDJ)!
-  🔭 I’m currently working on exciting full-stack MERN & green-commerce projects.
-  🌱 I’m learning advanced C++, TypeScript & DevOps.
-  💬 Ask me about React, Node.js, DSA, or Tailwind.
--->
-
-<div align="center">
-
-# 👋 Hi, I’m RDJ (VVRS Teja)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Teja-Vvrs&color=blue)](https://github.com/Teja-Vvrs)
-
-<p>
-  <a href="#about">About Me</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#links">Links</a> •
-  <a href="#stats">Stats</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&weight=700&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+VVRS+Teja!" alt="Typing SVG" />
 </p>
-
-</div>
-
----
-
-## 📖 About Me
-
-- 🎓 Full-stack MERN Developer & Competitive Programmer  
-- 🌿 Building “Greenovation Zone” for Amazon HackOn 2025  
-- 💡 Passionate about scalable web-apps, DSA, and UI/UX animations  
-- 📫 Reach me at: veluvarthi.teja@example.com
-
----
-
-## 🛠️ Skills
 
 <p align="center">
-  <!-- Square icons (simple 64×64) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="48" height="48"/>
+  <img src="https://komarev.com/ghpvc/?username=Teja-Vvrs&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
-
----
-
-## 🚀 Projects
-
-| Name | Description | Link |
-|:---|:---|:---|
-| **Restaurant-Finder** | A React/Node/Mongo app to discover restaurants with location filter | [GitHub](https://github.com/Teja-Vvrs/Restaurant-Finder) |
-| **FarmDirect** | Farm-to-table online produce marketplace | [GitHub](https://github.com/Teja-Vvrs/FarmDirect) |
-| **TripEase** | Smart group expense splitter for trips (Socket.io real-time) | [GitHub](https://github.com/Teja-Vvrs/TripEase) |
-| **Greenovation Zone** | HackOn hackathon project: Sustainable e-commerce platform | [Proposal PDF](https://github.com/Teja-Vvrs/GreenovationZone/blob/main/proposal.pdf) |
-| **CrowdFundME** | Kickstarter-style crowdfunding platform with admin moderation | [GitHub](https://github.com/Teja-Vvrs/CrowdFundME) |
-
----
-
-## 🔗 Links
 
 <p align="center">
-  <a href="https:// VVRS-Teja.dev/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=firefox" alt="Portfolio"/>
-  </a>
-  <a href="https://leetcode.com/Teja_VVRS" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  </a>
-  <a href="https://www.linkedin.com/in/veluvarthi-teja" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:veluvarthi.teja@example.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+  <b>🚀 Full Stack Developer | DSA Enthusiast | Tech Explorer</b>
 </p>
+
+---
+
+## 🌟 About Me
+
+🎓 B.Tech Student at **GVP College of Engineering (A)**  
+💻 Passionate **MERN Stack Developer**  
+🧠 Exploring **Cloud Computing**, **AI**, and **Scalable Web Apps**  
+🛠 Always building, debugging, and deploying 🚀  
+🌍 Open Source Contributor & Tech Explorer  
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🏆 Top 50 Finalist – **STACKHACK 2.0** by Mercer  
+- 🤖 AI/ML Virtual Internship – **Google & AICTE**  
+- ☁️ AWS Cloud Virtual Internship – **AICTE**  
+- 💡 Built **10+ Full Stack Projects**  
+- 📈 Solved **300+ LeetCode Problems**  
+- 💪 3-Star Coder on **CodeChef**
+
+---
+
+## 🚀 My Projects
+
+| 🔥 Project | 📝 Description | ⚙️ Tech Stack |
+|-----------|----------------|----------------|
+| 💾 **Funderra** | Kickstarter-style crowdfunding platform with admin moderation	. | MERN Stack |
+| 🌾 **FarmDirect** | A platform connecting farmers directly with consumers for fresh produce. | MERN Stack |
+| 🍽 **Restaurant Finder** | Location-based restaurant discovery and filtering. | MERN Stack + Geolocation API |
+
+
+🔗 [Explore More Projects](https://github.com/Teja-Vvrs?tab=repositories)
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/></td>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/></td>
+    <td><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/></td>
+    <td><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css"/></td>
+  </tr>
+</table>
+
+### 🧠 Backend & Database
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/></td>
+    <td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/></td>
+    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/></td>
+    <td><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/></td>
+  </tr>
+</table>
+
+### ☁️ DevOps & Deployment
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/></td>
+    <td><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/></td>
+    <td><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render"/></td>
+  </tr>
+</table>
+
+### 🎨 UI Libraries
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/></td>
+    <td><img src="https://img.shields.io/badge/Framer_Motion-E100FF?style=for-the-badge&logo=framer"/></td>
+  </tr>
+</table>
+
+### 🔧 Tools
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/></td>
+    <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></td>
+    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/></td>
+    <td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/></td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
+![Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Teja-Vvrs&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-Vvrs&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Teja-Vvrs&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Teja-Vvrs&theme=radical)
+
+---
+
+## 🌐 Let’s Connect!
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teja-Vvrs&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-Vvrs&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
+  <a href="[https://linkedin.com/in/vvrs-teja](https://www.linkedin.com/in/veluvarthi-teja/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tejav2527@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Teja-Vvrs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://vvrsteja.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-### 🤖 Animations & Bot
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Coding Animation"/>
-</div>
-
----
-
-_Last updated on: June 22, 2025_
-
+<p align="center"><i>💡 "Passionate about building impactful tech that makes lives easier, smarter, and better." 🚀</i></p>
